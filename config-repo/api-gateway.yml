@@ -1,3 +1,5 @@
+wahaha:
+  wahaha-github
 zuul:
   #thread-pool:
     #每个路由使用独立的线程池
